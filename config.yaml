@@ -1,4 +1,4 @@
-baseurl: https://sun-bear.xyz
+baseurl: https://sun-bear.fun
 languageCode: vi-vn
 theme: hugo-theme-stack
 paginate: 5
@@ -186,11 +186,8 @@ related:
     threshold: 60
     toLower: false
     indices:
-        - name: tags
+        - name: keywords
           weight: 100
-
-        - name: categories
-          weight: 200
 
 markup:
     goldmark:
